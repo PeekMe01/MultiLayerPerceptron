@@ -9,8 +9,5 @@
         <module name="MultiLayerPerceptron" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="MultiLayerPerceptron" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
